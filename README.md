@@ -1,8 +1,11 @@
 ### Hi there 👋
+<br />
+### Github stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brano-hozza)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<br />
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -35,13 +38,6 @@
 <br />
 <br />
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Brano Hozza's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=brano-hozza&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://www.google.com
 [course]: https://www.google.com
