@@ -1,4 +1,4 @@
-### Hi there, I am Brano 👋
+### Hi there, I am Braňo 👋
 ### Github stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brano-hozza)](https://github.com/anuraghazra/github-readme-stats)
